@@ -123,12 +123,6 @@ Todo o processo decisório é transparente e colaborativo:
 - Auditorias garantem a segurança dos fundos
 - Dashboard público permite acompanhamento em tempo real[1][10]
 
-## Conclusão
-
-O Open_Invest_DAO representa uma abordagem inovadora para investimentos coletivos em criptomoedas, combinando os benefícios da descentralização, da inteligência coletiva e das estratégias DeFi. Através de uma estrutura de governança transparente e um sistema de recompensas bem definido, o protocolo busca maximizar os retornos enquanto distribui o poder decisório entre todos os participantes.
-
-A plataforma permite que mesmo investidores com conhecimento limitado possam se beneficiar de estratégias avançadas de DeFi, enquanto aprendem e contribuem para o ecossistema. Com diferentes estratégias de investimento e mecanismos de recompensa, o Open_Invest_DAO cria um ambiente colaborativo onde o sucesso individual está diretamente ligado ao sucesso coletivo[18][20].
-
 ## **Resumo Executivo**
 
 O Open_Invest_DAO é um protocolo descentralizado de investimentos, construído com base em princípios de governança aberta, transparência e colaboração comunitária. Utilizando tecnologia blockchain e smart contracts, o protocolo permite que investidores de diferentes perfis se unam para propor, votar e executar investimentos coletivos em projetos inovadores, democratizando o acesso a oportunidades e reduzindo barreiras institucionais tradicionais[3].
