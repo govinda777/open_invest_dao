@@ -1,5 +1,9 @@
 # open_invest_dao
 
+## Pod Cast
+
+https://notebooklm.google.com/notebook/7083eb42-4db0-4117-8def-32d7424c396e/audio
+
 > Mapa Mental do Protocolo Open_Invest_DAO
 
 Antes de apresentar o mapa mental completo, este protocolo representa uma plataforma de investimento descentralizada onde os usuários podem participar coletivamente de investimentos em criptomoedas através de uma estrutura de DAO, recebendo tokens de governança, participando de decisões coletivas e sendo recompensados com airdrops baseados em sua participação.
