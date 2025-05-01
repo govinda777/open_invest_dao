@@ -2,6 +2,77 @@
 
 Podcast: https://notebooklm.google.com/notebook/6c9f5d5f-2d31-48f6-b42a-bc7d312886de/audio
 
+```
+mindmap
+  Finanças Descentralizadas (DeFi)
+    O Que É?
+      Sistema Financeiro s/ Autoridade Central [1-5]
+      Substitui Intermediários (Smart Contracts) [1-3, 6-8]
+      Baseado em Blockchain [1, 4, 5, 9-11]
+      Alternativa à Finança Tradicional (CeFi) [2, 9, 10, 12-15]
+    Como Funciona?
+      Smart Contracts (Auto-executáveis) [2, 3, 7, 8, 16, 17]
+      Transações P2P [2, 6, 9]
+      Aplicativos Descentralizados (dApps) [7, 8, 18, 19]
+    Características Chave
+      Transparência [2, 20-25]
+      Trustlessness (sem confiança em terceiros) [6, 21]
+      Composability (Modularidade/Interoperabilidade) [6, 7, 20, 21, 24, 26, 27]
+      Permissionless (Acessível a todos) [24, 28, 29]
+      Inclusão Financeira [23, 29, 30]
+      Programabilidade [23, 24, 29]
+    Oportunidades e Benefícios
+      Controle sobre Ativos [2, 9, 20, 25]
+      Maior Acessibilidade [2, 9, 24, 25, 29, 31, 32]
+      Eficiência e Velocidade (s/ intermediários) [2, 24, 32, 33]
+      Potencial p/ Soluções Sofisticadas [20, 29]
+      Altos Retornos (Yield Farming/Liquidity Mining) [4, 34, 35]
+      Disintermediação [24]
+      Resiliência (24/7) [25]
+    Riscos e Desafios
+      Vulnerabilidades de Código/Smart Contracts [36, 37]
+      Riscos de Oracles [38]
+      Erro do Usuário/Phishing/Scams [39-42]
+      Volatilidade de Preço/Risco de Mercado [40]
+      Risco de Liquidez [40]
+      Transações Irreversíveis [37]
+      Falta de KYC/AML [41]
+      Regulamentação Incerta [19, 31, 43, 44]
+      Problemas de Escalabilidade [19, 31]
+      Preocupações Ambientais (Proof-of-Work) [14]
+    Aplicações Comuns
+      Empréstimos e Empréstimos Instantâneos [4, 16, 33, 34, 45-48]
+        Ex: Aave, Compound, MakerDAO [34, 47-49]
+      Exchanges Descentralizadas (DEXs) [26, 50-54]
+        Ex: Uniswap, Curve, 1inch, SushiSwap [52-54]
+      Gestão de Ativos Descentralizada [20, 21, 50, 55]
+        Ex: Zapper.fi/DeFiZap, RAY [27]
+      Stablecoins [51, 53]
+        Ex: MakerDAO/DAI, USD Coin [51, 56]
+      Yield Farming / Liquidity Mining [35, 56]
+        Ex: Yearn Finance, Curve Finance, Balancer [56]
+      Derivativos Descentralizados [26, 50, 57]
+      Contas de Poupança Descentralizadas [56, 58]
+      Crowdfunding Descentralizado [50, 59, 60]
+      Mercados de Predição [56, 61]
+      Seguros Descentralizados [45, 55, 56]
+        Ex: Nexus Mutual [55, 56]
+      Identidade Descentralizada [61]
+    Tokenomics [62-66]
+      Definição (Regras do Token no Ecossistema) [65]
+      Ingredientes Chave [64, 66]
+        Oferta Total & Demanda [65, 67]
+        Alocação Inicial [65]
+        Distribuição [65, 68]
+        Acumulação de Valor [65, 66, 69]
+      Papel do Token (Utilidade, Governança, Acumular Receita) [69]
+    Hub de Protocolos de Investimento (open_invest_dao) [70]
+      Integração Múltiplos Protocolos (DeFi, CeFi, Pools, etc.) [71]
+      Gestão/Criação Padronizada de Fundos [70, 72]
+      Alocação Programável [71]
+      Orquestração Transações [73]
+      Governança DAO sobre Investimentos [72, 74]
+```
 ## # STACK.md - open_invest_dao
 
 ## Visão Geral
