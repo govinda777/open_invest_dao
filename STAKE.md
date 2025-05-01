@@ -4,52 +4,52 @@ Podcast: https://notebooklm.google.com/notebook/6c9f5d5f-2d31-48f6-b42a-bc7d3128
 
 ```mermaid
 mindmap
-  root((Finanças Descentralizadas (DeFi)))
+  root(Finanças Descentralizadas DeFi)
     O Que É?
-      Sistema Financeiro s/ Autoridade Central
-      Substitui Intermediários (Smart Contracts)
+      Sistema Financeiro s Autoridade Central
+      Substitui Intermediários Smart Contracts
       Baseado em Blockchain
-      Alternativa à Finança Tradicional (CeFi)
+      Alternativa à Finança Tradicional CeFi
     Como Funciona?
-      Smart Contracts (Auto-executáveis)
+      Smart Contracts Auto-executáveis
       Transações P2P
-      Aplicativos Descentralizados (dApps)
+      Aplicativos Descentralizados dApps
     Características Chave
       Transparência
-      Trustlessness (sem confiança em terceiros)
-      Composability (Modularidade/Interoperabilidade)
-      Permissionless (Acessível a todos)
+      Trustlessness sem confiança em terceiros
+      Composability Modularidade Interoperabilidade
+      Permissionless Acessível a todos
       Inclusão Financeira
       Programabilidade
     Oportunidades e Benefícios
       Controle sobre Ativos
       Maior Acessibilidade
-      Eficiência e Velocidade (s/ intermediários)
+      Eficiência e Velocidade s intermediários
       Potencial p/ Soluções Sofisticadas
-      Altos Retornos (Yield Farming/Liquidity Mining)
+      Altos Retornos Yield Farming Liquidity Mining
       Disintermediação
-      Resiliência (24/7)
+      Resiliência 24 7
     Riscos e Desafios
-      Vulnerabilidades de Código/Smart Contracts
+      Vulnerabilidades de Código Smart Contracts
       Riscos de Oracles
-      Erro do Usuário/Phishing/Scams
-      Volatilidade de Preço/Risco de Mercado
+      Erro do Usuário Phishing Scams
+      Volatilidade de Preço Risco de Mercado
       Risco de Liquidez
       Transações Irreversíveis
-      Falta de KYC/AML
+      Falta de KYC AML
       Regulamentação Incerta
       Problemas de Escalabilidade
-      Preocupações Ambientais (Proof-of-Work)
+      Preocupações Ambientais Proof-of-Work
     Aplicações Comuns
       Empréstimos e Empréstimos Instantâneos
         Ex: Aave, Compound, MakerDAO
-      Exchanges Descentralizadas (DEXs)
+      Exchanges Descentralizadas DEXs
         Ex: Uniswap, Curve, 1inch, SushiSwap
       Gestão de Ativos Descentralizada
         Ex: Zapper.fi/DeFiZap, RAY
       Stablecoins
-        Ex: MakerDAO/DAI, USD Coin
-      Yield Farming / Liquidity Mining
+        Ex: MakerDAO DAI, USD Coin
+      Yield Farming  Liquidity Mining
         Ex: Yearn Finance, Curve Finance, Balancer
       Derivativos Descentralizados
       Contas de Poupança Descentralizadas
@@ -59,15 +59,15 @@ mindmap
         Ex: Nexus Mutual
       Identidade Descentralizada
     Tokenomics
-      Definição (Regras do Token no Ecossistema)
+      Definição Regras do Token no Ecossistema
       Ingredientes Chave
         Oferta Total & Demanda
         Alocação Inicial
         Distribuição
         Acumulação de Valor
-      Papel do Token (Utilidade, Governança, Acumular Receita)
-    Hub de Protocolos de Investimento (open_invest_dao)
-      Integração Múltiplos Protocolos (DeFi, CeFi, Pools, etc.)
+      Papel do Token Utilidade, Governança, Acumular Receita
+    Hub de Protocolos de Investimento open_invest_dao
+      Integração Múltiplos Protocolos DeFi, CeFi, Pools, etc.
       Gestão/Criação Padronizada de Fundos
       Alocação Programável
       Orquestração Transações
